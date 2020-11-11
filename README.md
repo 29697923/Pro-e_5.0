@@ -36,8 +36,6 @@ motor
 
 ​		这是效果图改进。
 
-![sample_1](https://github.com/29697923/Pro-e_5.0/blob/main/text/sample_1.PNG)
-
-![sample_2](https://github.com/29697923/Pro-e_5.0/blob/main/text/sample_3.PNG)
-
-![sample_3](https://github.com/29697923/Pro-e_5.0/blob/main/text/ssample_2.PNG)
+![sample_1](text/ssample_2.PNG)
+![sample_2](text/sample_3.PNG)
+![sample_3](text/ssample_2.PNG)
