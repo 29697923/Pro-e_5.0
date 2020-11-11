@@ -1,0 +1,13 @@
+Creo Elements/Pro is running with Unicode string encoding.
+DUMMY - pro_set_input_devices_allowed
+DUMMY - putxyres
+pglSetStatus: Pgl Session Initialize
+DUMMY - putxyres
+check_exec_file_accessible_():  C:\Program Files\PTC\Creo Elements\Pro5.0\\x86e_win64\obj\SWConvert.exe accessible (INFO MESSAGE)
+browser_get_type_sysdep:  type = 1 (INFO MESSAGE)
+setIE8BrowserEmulation:  Unexpected IE11 or later version
+Exception - code was -1073741819.
+pro_notification_remove:  event_id 5 was never defined? (INFO MESSAGE)
+pro_notification_remove:  event_id 6 was never defined? (INFO MESSAGE)
+pro_notification_remove:  event_id 14 was never defined? (INFO MESSAGE)
+pro_notification_remove:  event_id 15 was never defined? (INFO MESSAGE)
